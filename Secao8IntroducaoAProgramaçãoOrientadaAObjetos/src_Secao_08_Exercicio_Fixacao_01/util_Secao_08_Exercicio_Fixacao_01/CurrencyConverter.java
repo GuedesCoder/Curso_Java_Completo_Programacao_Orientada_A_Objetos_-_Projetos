@@ -1,4 +1,4 @@
-package util_Secao_8_Exercicio_Fixacao_01;
+package util_Secao_08_Exercicio_Fixacao_01;
 
 public class CurrencyConverter {
 

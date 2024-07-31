@@ -1,9 +1,9 @@
-package application_Secao_8_Exercicio_Fixacao_01;
+package application_Secao_08_Exercicio_Fixacao_01;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import util_Secao_8_Exercicio_Fixacao_01.CurrencyConverter;
+import util_Secao_08_Exercicio_Fixacao_01.CurrencyConverter;
 
 public class Program {
 

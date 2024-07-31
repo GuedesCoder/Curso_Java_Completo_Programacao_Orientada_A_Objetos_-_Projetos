@@ -7,10 +7,10 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src_Exercicio_Em_Aula_1"/>
 	<classpathentry kind="src" path="src_Exercicio_Em_Aula_2"/>
-	<classpathentry kind="src" path="src_Secao_8_Exercicio_Proposto_01"/>
-	<classpathentry kind="src" path="src_Secao_8_Exercicio_Proposto_02"/>
-	<classpathentry kind="src" path="src_Secao_8_Exercicio_Proposto_03"/>
+	<classpathentry kind="src" path="src_Secao_08_Exercicio_Proposto_01"/>
+	<classpathentry kind="src" path="src_Secao_08_Exercicio_Proposto_02"/>
+	<classpathentry kind="src" path="src_Secao_08_Exercicio_Proposto_03"/>
 	<classpathentry kind="src" path="src_Exercicio_Em_Aula_3"/>
-	<classpathentry kind="src" path="src_Secao_8_Exercicio_Fixacao_01"/>
+	<classpathentry kind="src" path="src_Secao_08_Exercicio_Fixacao_01"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
