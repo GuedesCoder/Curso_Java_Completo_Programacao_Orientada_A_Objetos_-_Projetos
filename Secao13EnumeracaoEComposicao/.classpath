@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src_Exercicio_Em_Aula_01"/>
+	<classpathentry kind="src" path="src_Exercício_Em_Resolvido_1"/>
+	<classpathentry kind="src" path="application_Secao_9_Exercicio_Resolvido_02"/>
+	<classpathentry kind="src" path="src_Exercício_De_Fixacao_01"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
