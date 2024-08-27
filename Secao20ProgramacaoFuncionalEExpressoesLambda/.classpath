@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="srcSecao20Aula253"/>
+	<classpathentry kind="src" path="srcSecao20Predicate"/>
+	<classpathentry kind="src" path="srcSecao20Consumer"/>
+	<classpathentry kind="src" path="srcSecao20Function"/>
+	<classpathentry kind="src" path="srcSecao20Stream"/>
+	<classpathentry kind="src" path="srcSecao20ExercicioResolvidoStream"/>
+	<classpathentry kind="src" path="srcSecao20ExercicioPropostoStream"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
